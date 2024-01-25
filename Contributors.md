@@ -24,18 +24,18 @@
                     <tr>
                         <th align="left">
                             <a href="https://github.com/CMU-313/spring24-nodebb-test-ao-1/commits?author=aoli-al&since=2024-01-20T00:00:00-05:00&until=2024-03-29T23:59:00-05:00">
-                            Commit: 5
+                            Commit: 6
                             </a>
                         </th>
                     </tr>
                     <tr>
                         <th align="left">
-                            Addition: 19
+                            Addition: 20
                         </th>
                     </tr>
                     <tr>
                         <th align="left">
-                            Deletion: 1
+                            Deletion: 2
                         </th>
                     <tr>
                     <tr>
